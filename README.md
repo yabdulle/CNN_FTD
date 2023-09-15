@@ -1,6 +1,6 @@
 # Frontotemporal Dementia Classification
 
-Welcome to my GitHub repository! Here, I present my MSc Thesis project, which focuses on creating a sequential Convolutional Neural Network (CNN) capable of classifying different cases of Frontotemporal Dementia (FTD) based on T1-weighted MRI data. If you're interested in the field of medical image analysis, deep learning, or neurodegenerative diseases, this repository provides insights into the development of a powerful tool for FTD diagnosis.
+Welcome to my GitHub repository! Here, I present my MSc Clinical Neuroscience Thesis project, which focuses on creating a sequential Convolutional Neural Network (CNN) capable of classifying different cases of Frontotemporal Dementia (FTD) based on T1-weighted MRI data. If you're interested in the field of medical image analysis, deep learning, or neurodegenerative diseases, this repository provides insights into the development of a powerful tool for FTD diagnosis. This project is my first exposure to deep learning, coming from a background of Biomedical Science.
 
 ## Table of Contents
 - [Introduction](#introduction)
