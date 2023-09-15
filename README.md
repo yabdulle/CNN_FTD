@@ -7,7 +7,6 @@ Welcome to my GitHub repository! Here, I present my MSc Clinical Neuroscience Th
 - [Data Source](#data-source)
 - [About the Data](#about-the-data)
 - [Project Details](#project-details)
-- [License](#license)
 
 ## Introduction
 
@@ -24,11 +23,6 @@ The T1-weighted MRI data from FTLDNI is a valuable resource for research in neur
 ## Project Details
 
 In this project, I leveraged deep learning techniques to develop a sequential CNN model capable of classifying FTD cases from T1-weighted MRI scans. The model's architecture, training process, and evaluation metrics are documented in this repository. You can explore the Jupyter notebooks and code to gain insights into the methodology and results of this classification task.
-
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Please review the license file for more details.
 
 ---
 
