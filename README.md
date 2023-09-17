@@ -26,4 +26,4 @@ In this project, I leveraged deep learning techniques to develop a sequential CN
 
 ---
 
-Thank you for exploring the Frontotemporal Dementia Classification project! We hope that this work contributes to the advancement of FTD diagnosis and treatment. If you have any questions, issues, or suggestions, please feel free to open an [issue](https://github.com/your-username/Frontotemporal-Dementia-Classification/issues).
+Thank you for exploring the Frontotemporal Dementia Classification project! I hope that this work contributes to the advancement of FTD diagnosis and treatment. If you have any questions, issues, or suggestions, please feel free to open an issue.
